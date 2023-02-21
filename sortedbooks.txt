@@ -1,0 +1,1 @@
+Book name: pak	Book type: txt	Price: 700	Quantity: 20
