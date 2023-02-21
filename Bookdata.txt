@@ -1,0 +1,6 @@
+name,type,price,quan
+phy,txt,200,2
+chem,txt,345,16
+macbeth,novel,200,2
+bio,txt,333,33
+pak,txt,700,20
